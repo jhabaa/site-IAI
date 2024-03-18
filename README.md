@@ -1,6 +1,6 @@
 # Projet de création du site Internet de l'IAI Cameroun
 
-> Bienvenue sur le projet de création du site Internet de l'Institut Africain d'Informatique (IAI) au Cameroun ! Ce projet est une initiative menée par une équipe d'étudiants dévoués cherchant à moderniser la présence en ligne de notre ancienne école supérieure.
+> Bienvenue sur le projet de création du site Internet de l'Institut Africain d'Informatique (IAI) au Cameroun ! Ce projet est une initiative menée par une équipe d'étudiants dévoués cherchant à moderniser la présence en ligne de notre école supérieure d'informatique.
 > ![Image](https://github.com/users/jhabaa/projects/6/assets/78347379/900792b9-41bf-45c7-87c6-f19f1acd7cab)
 
 ## Objectif du projet
@@ -46,4 +46,3 @@ Nous accueillons chaleureusement toute contribution à ce projet, que vous soyez
 > Nous sommes impatients de travailler ensemble pour créer un site Internet exceptionnel pour l'IAI Cameroun !
 
 --- 
-
